@@ -2547,17 +2547,5 @@
     "p2shtype": 5,
     "wiftype": 204,
     "txfee": 10000
-  },
-  {
-
-    "coin": "IMG",
-    "name": "ImageCoin",
-    "fname": "ImageCoin",
-    "rpcport": 6999,
-    "pubtype": 63,
-    "p2shtype": 5,
-    "wiftype": 204,
-    "txfee": 10000
   }
-  
 ]
